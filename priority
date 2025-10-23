@@ -1,0 +1,5 @@
+// Priority.java
+public interface Priority {
+    void setPriority(int level);
+    int getPriority();
+}
